@@ -8,5 +8,3 @@ abstract class TestCase extends BaseTestCase
 {
     //
 }
-
-Rika Anjing
